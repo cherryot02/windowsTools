@@ -1,2 +1,2 @@
 # windowsTools
-This is from one of my lab works in class, mainly tackling about basic Windows Tools.
+This is from one of my lab works in class that is tackling about basic Windows Tools, mainly the usage of the command line.
